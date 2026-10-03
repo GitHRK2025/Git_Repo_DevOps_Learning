@@ -4,7 +4,7 @@ Git Repo for DevOps Learning
 2. Created a folder in local machine name "Git_test_DevOps"
 3. Repo creation
 git clone
-4. performed following commands in local machine folder 
+4. performed following commands in local machine folder
 a. git status
 b. git add *
 c. git status
