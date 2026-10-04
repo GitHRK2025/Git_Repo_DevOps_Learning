@@ -1,1 +1,3 @@
 Heyyy this is 3rd file
+Hey , This is c txt through vi, 
+added new line after commit c.txt

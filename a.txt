@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 
 Hello from Git a.txt
 hello for nano
+=======
+Hello , This is a
+>>>>>>> Stashed changes

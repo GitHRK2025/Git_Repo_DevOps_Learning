@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 
 Hello from Git b.txt
+=======
+Hi, This is b txt
+>>>>>>> Stashed changes
