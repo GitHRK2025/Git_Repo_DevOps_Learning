@@ -1,0 +1,3 @@
+
+Hello from Git a.txt
+hello for nano
